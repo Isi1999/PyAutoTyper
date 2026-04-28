@@ -15,7 +15,7 @@ Die Nutzung erfolgt auf **eigene Gefahr**. Der Entwickler übernimmt keine Haftu
 4. Lies die Datei `BenutzerHandbuch.txt` für die Bedienung und die Notfall-Abbruch-Funktion.
 
 ## Installation & Start (WINDOWS)
-# Wird später hinzugefügt
+ *Wird später hinzugefügt*
 
 ## Bedienung
 - Das Skript wartet 10 Sekunden, bevor es startet.
