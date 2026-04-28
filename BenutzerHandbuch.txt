@@ -1,0 +1,33 @@
+DIESES PROGRAMM FUNKTIONIERT SO...
+
+    Ablauf
+
+        1. Es Startet ein 10 sekunden Timer (Prepariere bevor du das Programm startest alles)
+            Öffne dein Programm z.B. Discord oder WhatsApp auf deinem Mac.
+        2. Jetzt öffne das Programm mit Doppelklick auf Programm.command
+
+
+    ABBRUCH WIE???
+
+        1. Gehe mit deiner Maus in die obere linke Ecke Das Programm wird sofort Beendet
+
+    Desktopverknüpfung
+
+    #---------------------------------------------------------------#
+            LEGE ALLE DATEIEN IN KEINEN ANDEREN ORDNER!!!
+    #---------------------------------------------------------------#
+
+        Variante A
+
+            1. Suche die Datei Programm.command
+            2. Mach Rechtsklick(Sekundärklick) und wähle Alias
+            3. Suche einen Namen für die Verknüpfung z.B. Programm, Spam oder SpamDISCORD
+            4. Klicke 'ENTER' und ziehe die Datei per dragAndDrop(Ziehen) auf deinen Schreibtisch(Desktop)
+            5. AB JETZT IMMER AUF DEN ALIAS(Verknüpfung) DOPPELKLICKEN UM DAS PROGRAMM ZU STARTEN 
+        
+        
+        Variante B
+
+            1. Suche die Datei Programm.command
+            2. Halte auf der Tastatur Option (⌥) + Command (⌘) und ziehe dann mit der Maus den Alias(Verknüpfung) auf den Desktop(Schreibtisch)
+            3. AB JETZT IMMER AUF DEN ALIAS(Verknüpfung) DOPPELKLICKEN UM DAS PROGRAMM ZU STARTEN 
