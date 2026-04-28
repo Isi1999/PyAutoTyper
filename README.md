@@ -9,7 +9,8 @@ Die Nutzung erfolgt auf **eigene Gefahr**. Der Entwickler übernimmt keine Haftu
 ## Installation & Start (Mac)
 
 1. Lade das Repository herunter.
-2. Öffne die Datei `Mac1.command` mit einem Doppelklick. Diese prüft automatisch, ob Python und alle Module bereit sind.
+2. Öffne die Mac.zip und dann den Ordner Mac
+2.5 Öffne die Datei `Mac1.command` mit einem Doppelklick. Diese prüft automatisch, ob Python und alle Module bereit sind.
 3. Sobald das Skript fertig ist, schließe das Terminal.
 4. Lies die Datei `BenutzerHandbuch.txt` für die Bedienung und die Notfall-Abbruch-Funktion.
 

@@ -31,3 +31,9 @@ DIESES PROGRAMM FUNKTIONIERT SO...
             1. Suche die Datei Programm.command
             2. Halte auf der Tastatur Option (⌥) + Command (⌘) und ziehe dann mit der Maus den Alias(Verknüpfung) auf den Desktop(Schreibtisch)
             3. AB JETZT IMMER AUF DEN ALIAS(Verknüpfung) DOPPELKLICKEN UM DAS PROGRAMM ZU STARTEN 
+
+
+    Nachricht ÄNDERN 
+
+        1. Doppelklick auf die Datei text_ändern.command
+        2. Dann neuen Text angeben den er die ganze Zeit wiederholen soll
