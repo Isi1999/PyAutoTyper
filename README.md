@@ -14,6 +14,9 @@ Die Nutzung erfolgt auf **eigene Gefahr**. Der Entwickler übernimmt keine Haftu
 3. Sobald das Skript fertig ist, schließe das Terminal.
 4. Lies die Datei `BenutzerHandbuch.txt` für die Bedienung und die Notfall-Abbruch-Funktion.
 
+## Installation & Start (WINDOWS)
+# Wird später hinzugefügt
+
 ## Bedienung
 - Das Skript wartet 10 Sekunden, bevor es startet.
 - **ABBRUCH:** Bewege die Maus sofort in die **obere linke Ecke** des Bildschirms, um das Programm zu stoppen.
