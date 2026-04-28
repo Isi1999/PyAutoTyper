@@ -1,18 +1,18 @@
 # Spam-your-friends-deutsch
-Willst du deine Freunde mal richtig nerven und spammen dann lade dir dieses Programm runter
 
+## Beschreibung
+Dieses Programm ist ein Automatisierungs-Tool, das zeigt, wie man mit Python (`pyautogui`) Tastatureingaben simulieren kann. Es dient ausschließlich zu **Demonstrations- und Bildungszwecken**.
 
-# Bevor Du startest 
+## WICHTIG: Haftungsausschluss
+Die Nutzung erfolgt auf **eigene Gefahr**. Der Entwickler übernimmt keine Haftung für Schäden oder Missbrauch. Die Verwendung gegen Dritte ohne deren ausdrückliche Zustimmung ist untersagt. Durch das Herunterladen akzeptierst du die Bedingungen der beigelegten MIT-Lizenz.
 
-1. Installiere wenn du einen Mac hast die .zip
-   und bei einem Windows PC die .exe
+## Installation & Start (Mac)
 
-# Mac
+1. Lade das Repository herunter.
+2. Öffne die Datei `Mac1.command` mit einem Doppelklick. Diese prüft automatisch, ob Python und alle Module bereit sind.
+3. Sobald das Skript fertig ist, schließe das Terminal.
+4. Lies die Datei `BenutzerHandbuch.txt` für die Bedienung und die Notfall-Abbruch-Funktion.
 
-1. Öffne mit einem Doppelklick die Datei Mac1.command(Die überprüft ob du alle wichtigen tools installiert hast wenn nicht installiert dieses Programm das von selbst)
-
-2. Wenn das Programm fertig durchgelaufen ist Schließe das Programm Terminal
-
-3. Jetzt lese bitte erstmal die Datei BenutzerHandbuch.txt durch
-
-# Installiere Das PROGRAMM
+## Bedienung
+- Das Skript wartet 10 Sekunden, bevor es startet.
+- **ABBRUCH:** Bewege die Maus sofort in die **obere linke Ecke** des Bildschirms, um das Programm zu stoppen.
