@@ -2,7 +2,7 @@ DIESES PROGRAMM FUNKTIONIERT SO...
 
     Ablauf
 
-        1. Es Startet ein 10 sekunden Timer (Prepariere bevor du das Programm startest alles)
+        1. ACHTUNG: Das Programm Startet ein 10 sekunden Timer also Prepariere bevor du das Programm startest alles
             Öffne dein Programm z.B. Discord oder WhatsApp auf deinem Mac.
         2. Jetzt öffne das Programm mit Doppelklick auf Programm.command
 
